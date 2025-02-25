@@ -178,3 +178,15 @@ label {
         opacity: 100%;
     }
 }
+
+#statuscafe {
+    padding: .5em;
+    background-color: black;
+    border: 1px solid black;
+}
+#statuscafe-username {
+    margin-bottom: .10em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.9em 1em;
+}
